@@ -1,0 +1,18 @@
+
+#k1{
+    width: 580px;
+    height: 150px;
+}
+#k2{
+    width: 100%;
+}
+#k3{
+    display: inline-block;
+    margin-top: 3px;
+    padding-left: 10px 10px ;
+    margin-left: 60px;
+    line-height: 40px;
+    list-style-type: none;
+
+
+}

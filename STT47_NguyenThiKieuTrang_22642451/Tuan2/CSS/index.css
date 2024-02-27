@@ -1,0 +1,10 @@
+#container{
+    background-image: url(../HinhAnh/Bai3/background.jpg);
+    width: 75%;
+    height: 700px;
+}
+*{
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 20px;
+}
